@@ -1,2 +1,11 @@
-# selfWork_1.1_git
-creating the first repository, GL to me.
+ NeuroStartUp
+
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
+ новейших технологий искусственного интеллекта.
+
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
